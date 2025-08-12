@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Olá, eu sou o Arthur Carvalho! 👋
 
 ###
 
@@ -51,7 +51,7 @@
 
 ###
 
-## Olá, eu sou o Arthur Carvalho! 👋
+##
 
 <!--
 **arthurcarvalho08/arthurcarvalho08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
